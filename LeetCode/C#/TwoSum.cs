@@ -16,4 +16,11 @@ public class Solution {
 
         return [0,0];
     }
+
+    //Testing on VS
+    // static void Main(string[] args)
+    // {
+    //     TwoSum([-1, -2, -3, -4, -5], -8);
+    //     Console.ReadLine();
+    // }
 }
